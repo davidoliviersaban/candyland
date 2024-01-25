@@ -1,0 +1,716 @@
+fileFormatVersion: 2
+guid: a14e4e95160314e6d9c43b0eec717b6d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 54
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-01-18 23.43.00 - Redesigned tileset for 'Gummy Grove'
+        in a 2D action platformer game, modern pixel art style, 256 color palette,
+        32x32 pixels tiles. Include a mix of s_0"
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 364
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460be9393b65a4ae59e72bb5a9e49aee
+      internalID: 1850041612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-01-18 23.43.00 - Redesigned tileset for 'Gummy Grove'
+        in a 2D action platformer game, modern pixel art style, 256 color palette,
+        32x32 pixels tiles. Include a mix of s_1"
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 391
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4af5aa129c9c4bde9b8f1bf06584c01
+      internalID: 1488225634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-01-18 23.43.00 - Redesigned tileset for 'Gummy Grove'
+        in a 2D action platformer game, modern pixel art style, 256 color palette,
+        32x32 pixels tiles. Include a mix of s_2"
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 310
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854158bfc79054e32b58caed9633a71b
+      internalID: 1043241639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-01-18 23.43.00 - Redesigned tileset for 'Gummy Grove'
+        in a 2D action platformer game, modern pixel art style, 256 color palette,
+        32x32 pixels tiles. Include a mix of s_3"
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 256
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e4402af7e69422b8a9e2ed29ab8a3c
+      internalID: -204702212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-01-18 23.43.00 - Redesigned tileset for 'Gummy Grove'
+        in a 2D action platformer game, modern pixel art style, 256 color palette,
+        32x32 pixels tiles. Include a mix of s_4"
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 202
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd17d3f0341a4f2e9b6c32ab8b00ba9
+      internalID: 1179545027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-01-18 23.43.00 - Redesigned tileset for 'Gummy Grove'
+        in a 2D action platformer game, modern pixel art style, 256 color palette,
+        32x32 pixels tiles. Include a mix of s_5"
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 148
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d72efb7469bb41038bea040e77047aa
+      internalID: -1593437222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-01-18 23.43.00 - Redesigned tileset for 'Gummy Grove'
+        in a 2D action platformer game, modern pixel art style, 256 color palette,
+        32x32 pixels tiles. Include a mix of s_6"
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 94
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19e3c23115854bad8ff1e1749098a18
+      internalID: 594079637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-01-18 23.43.00 - Redesigned tileset for 'Gummy Grove'
+        in a 2D action platformer game, modern pixel art style, 256 color palette,
+        32x32 pixels tiles. Include a mix of s_7"
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 60
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0cd9088453240ecba30e47a9a38438
+      internalID: 421678302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-01-18 23.43.00 - Redesigned tileset for 'Gummy Grove'
+        in a 2D action platformer game, modern pixel art style, 256 color palette,
+        32x32 pixels tiles. Include a mix of s_8"
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 364
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b227fdbaf804db3bbc8e7d19cdc8db
+      internalID: -1977860782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-01-18 23.43.00 - Redesigned tileset for 'Gummy Grove'
+        in a 2D action platformer game, modern pixel art style, 256 color palette,
+        32x32 pixels tiles. Include a mix of s_9"
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 364
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8991f83318e5044e5b0cf9df041547f2
+      internalID: -2124461616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-01-18 23.43.00 - Redesigned tileset for 'Gummy Grove'
+        in a 2D action platformer game, modern pixel art style, 256 color palette,
+        32x32 pixels tiles. Include a mix of s_10"
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 364
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17a617185f0b49a4b7c3701231897e2
+      internalID: -408635913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-01-18 23.43.00 - Redesigned tileset for 'Gummy Grove'
+        in a 2D action platformer game, modern pixel art style, 256 color palette,
+        32x32 pixels tiles. Include a mix of s_11"
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 418
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b106f33b49ad446a9bde84d2f982694
+      internalID: -887711328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-01-18 23.43.00 - Redesigned tileset for 'Gummy Grove'
+        in a 2D action platformer game, modern pixel art style, 256 color palette,
+        32x32 pixels tiles. Include a mix of s_12"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 308
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86570a43d3b3d44e5aa7129f0fc02473
+      internalID: -726420428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-01-18 23.43.00 - Redesigned tileset for 'Gummy Grove'
+        in a 2D action platformer game, modern pixel art style, 256 color palette,
+        32x32 pixels tiles. Include a mix of s_13"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 307
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1b7dce617ab4497ab748fcc702325b
+      internalID: -2045806142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-01-18 23.43.00 - Redesigned tileset for 'Gummy Grove'
+        in a 2D action platformer game, modern pixel art style, 256 color palette,
+        32x32 pixels tiles. Include a mix of s_14"
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 145
+        width: 62
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35906368}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d37af4036a648a79448bac3cd712dd
+      internalID: -1634025985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-01-18 23.43.00 - Redesigned tileset for 'Gummy Grove'
+        in a 2D action platformer game, modern pixel art style, 256 color palette,
+        32x32 pixels tiles. Include a mix of s_15"
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 145
+        width: 54
+        height: 71
+      alignment: 9
+      pivot: {x: 0.4892194, y: 0.29464743}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0b6ea9adada4576b55ac18353f91a7
+      internalID: -1111112581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-01-18 23.43.00 - Redesigned tileset for 'Gummy Grove'
+        in a 2D action platformer game, modern pixel art style, 256 color palette,
+        32x32 pixels tiles. Include a mix of s_16"
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 364
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a322001d2691247a88e21ccba59aa1e1
+      internalID: 873953442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-01-18 23.43.00 - Redesigned tileset for 'Gummy Grove'
+        in a 2D action platformer game, modern pixel art style, 256 color palette,
+        32x32 pixels tiles. Include a mix of s_17"
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 364
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2fccdeaca372467fb9cf67eb4322567
+      internalID: -532408461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-01-18 23.43.00 - Redesigned tileset for 'Gummy Grove'
+        in a 2D action platformer game, modern pixel art style, 256 color palette,
+        32x32 pixels tiles. Include a mix of s_18"
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 472
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2742c4772356f4550b7f405de0b23aaf
+      internalID: 1832336134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-01-18 23.43.00 - Redesigned tileset for 'Gummy Grove'
+        in a 2D action platformer game, modern pixel art style, 256 color palette,
+        32x32 pixels tiles. Include a mix of s_19"
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 542
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ba2dc2ed86d428c89c13c72f2bcdff
+      internalID: -1232826475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-01-18 23.43.00 - Redesigned tileset for 'Gummy Grove'
+        in a 2D action platformer game, modern pixel art style, 256 color palette,
+        32x32 pixels tiles. Include a mix of s_20"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 980
+        width: 54
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2548672b1e340a582cb3cdca803e9f
+      internalID: -1217814963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-01-18 23.43.00 - Redesigned tileset for 'Gummy Grove'
+        in a 2D action platformer game, modern pixel art style, 256 color palette,
+        32x32 pixels tiles. Include a mix of s_21"
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 980
+        width: 54
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6408f43db9944e488643c7795f09d85
+      internalID: -1748495326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-01-18 23.43.00 - Redesigned tileset for 'Gummy Grove'
+        in a 2D action platformer game, modern pixel art style, 256 color palette,
+        32x32 pixels tiles. Include a mix of s_22"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 656
+        width: 153
+        height: 235
+      alignment: 9
+      pivot: {x: 0.5000002, y: 0.13161802}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae32f50d8b1e041428b280e88dec8aa4
+      internalID: 2129118728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "DALL\xB7E 2024-01-18 23.43.00 - Redesigned tileset for 'Gummy Grove'
+        in a 2D action platformer game, modern pixel art style, 256 color palette,
+        32x32 pixels tiles. Include a mix of s_23"
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 656
+        width: 106
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5000001, y: 0.18558101}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ace285bc40544944b36443dcea7d9d6
+      internalID: -1625009121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 92b77275fe4b543c0a66a8318d5a3778
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "DALL\xB7E 2024-01-18 23.43.00 - Redesigned tileset for 'Gummy Grove' in a 2D action platformer game, modern pixel art style, 256 color palette, 32x32 pixels tiles. Include a mix of s_0": 1850041612
+      "DALL\xB7E 2024-01-18 23.43.00 - Redesigned tileset for 'Gummy Grove' in a 2D action platformer game, modern pixel art style, 256 color palette, 32x32 pixels tiles. Include a mix of s_1": 1488225634
+      "DALL\xB7E 2024-01-18 23.43.00 - Redesigned tileset for 'Gummy Grove' in a 2D action platformer game, modern pixel art style, 256 color palette, 32x32 pixels tiles. Include a mix of s_10": -408635913
+      "DALL\xB7E 2024-01-18 23.43.00 - Redesigned tileset for 'Gummy Grove' in a 2D action platformer game, modern pixel art style, 256 color palette, 32x32 pixels tiles. Include a mix of s_11": -887711328
+      "DALL\xB7E 2024-01-18 23.43.00 - Redesigned tileset for 'Gummy Grove' in a 2D action platformer game, modern pixel art style, 256 color palette, 32x32 pixels tiles. Include a mix of s_12": -726420428
+      "DALL\xB7E 2024-01-18 23.43.00 - Redesigned tileset for 'Gummy Grove' in a 2D action platformer game, modern pixel art style, 256 color palette, 32x32 pixels tiles. Include a mix of s_13": -2045806142
+      "DALL\xB7E 2024-01-18 23.43.00 - Redesigned tileset for 'Gummy Grove' in a 2D action platformer game, modern pixel art style, 256 color palette, 32x32 pixels tiles. Include a mix of s_14": -1634025985
+      "DALL\xB7E 2024-01-18 23.43.00 - Redesigned tileset for 'Gummy Grove' in a 2D action platformer game, modern pixel art style, 256 color palette, 32x32 pixels tiles. Include a mix of s_15": -1111112581
+      "DALL\xB7E 2024-01-18 23.43.00 - Redesigned tileset for 'Gummy Grove' in a 2D action platformer game, modern pixel art style, 256 color palette, 32x32 pixels tiles. Include a mix of s_16": 873953442
+      "DALL\xB7E 2024-01-18 23.43.00 - Redesigned tileset for 'Gummy Grove' in a 2D action platformer game, modern pixel art style, 256 color palette, 32x32 pixels tiles. Include a mix of s_17": -532408461
+      "DALL\xB7E 2024-01-18 23.43.00 - Redesigned tileset for 'Gummy Grove' in a 2D action platformer game, modern pixel art style, 256 color palette, 32x32 pixels tiles. Include a mix of s_18": 1832336134
+      "DALL\xB7E 2024-01-18 23.43.00 - Redesigned tileset for 'Gummy Grove' in a 2D action platformer game, modern pixel art style, 256 color palette, 32x32 pixels tiles. Include a mix of s_19": -1232826475
+      "DALL\xB7E 2024-01-18 23.43.00 - Redesigned tileset for 'Gummy Grove' in a 2D action platformer game, modern pixel art style, 256 color palette, 32x32 pixels tiles. Include a mix of s_2": 1043241639
+      "DALL\xB7E 2024-01-18 23.43.00 - Redesigned tileset for 'Gummy Grove' in a 2D action platformer game, modern pixel art style, 256 color palette, 32x32 pixels tiles. Include a mix of s_20": -1217814963
+      "DALL\xB7E 2024-01-18 23.43.00 - Redesigned tileset for 'Gummy Grove' in a 2D action platformer game, modern pixel art style, 256 color palette, 32x32 pixels tiles. Include a mix of s_21": -1748495326
+      "DALL\xB7E 2024-01-18 23.43.00 - Redesigned tileset for 'Gummy Grove' in a 2D action platformer game, modern pixel art style, 256 color palette, 32x32 pixels tiles. Include a mix of s_22": 2129118728
+      "DALL\xB7E 2024-01-18 23.43.00 - Redesigned tileset for 'Gummy Grove' in a 2D action platformer game, modern pixel art style, 256 color palette, 32x32 pixels tiles. Include a mix of s_23": -1625009121
+      "DALL\xB7E 2024-01-18 23.43.00 - Redesigned tileset for 'Gummy Grove' in a 2D action platformer game, modern pixel art style, 256 color palette, 32x32 pixels tiles. Include a mix of s_3": -204702212
+      "DALL\xB7E 2024-01-18 23.43.00 - Redesigned tileset for 'Gummy Grove' in a 2D action platformer game, modern pixel art style, 256 color palette, 32x32 pixels tiles. Include a mix of s_4": 1179545027
+      "DALL\xB7E 2024-01-18 23.43.00 - Redesigned tileset for 'Gummy Grove' in a 2D action platformer game, modern pixel art style, 256 color palette, 32x32 pixels tiles. Include a mix of s_5": -1593437222
+      "DALL\xB7E 2024-01-18 23.43.00 - Redesigned tileset for 'Gummy Grove' in a 2D action platformer game, modern pixel art style, 256 color palette, 32x32 pixels tiles. Include a mix of s_6": 594079637
+      "DALL\xB7E 2024-01-18 23.43.00 - Redesigned tileset for 'Gummy Grove' in a 2D action platformer game, modern pixel art style, 256 color palette, 32x32 pixels tiles. Include a mix of s_7": 421678302
+      "DALL\xB7E 2024-01-18 23.43.00 - Redesigned tileset for 'Gummy Grove' in a 2D action platformer game, modern pixel art style, 256 color palette, 32x32 pixels tiles. Include a mix of s_8": -1977860782
+      "DALL\xB7E 2024-01-18 23.43.00 - Redesigned tileset for 'Gummy Grove' in a 2D action platformer game, modern pixel art style, 256 color palette, 32x32 pixels tiles. Include a mix of s_9": -2124461616
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
