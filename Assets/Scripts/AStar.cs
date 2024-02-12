@@ -14,9 +14,9 @@ namespace Automotion
         private int maxJumpHeight = 2;
         private int MAX_LOOPS = 400000;
         private int MAX_PATH_SIZE = 1000;
-        public bool CONNECTIVITY_8 = true;
+        public bool CONNECTIVITY_8 = false;
 
-        private float compuatationTime = 0f;
+        private float computationTime = 0f;
 
         // Code sample
         // void Start()
@@ -34,7 +34,7 @@ namespace Automotion
         {
             this.maxJumpHeight = maxJumpHeight;
             this.obstacleTilemap = obstacleTilemap;
-            compuatationTime = Time.realtimeSinceStartup;
+            computationTime = Time.realtimeSinceStartup;
             // Debug.Log("Finding path from " + start + " to " + end);
             int maxLoops = 0;
             List<GraphNode> openList = new List<GraphNode> {CreateGraphNode(start)};
@@ -100,8 +100,8 @@ namespace Automotion
             // It leads to a bug when the player has passed the target position
             // And so is willing to go back to the start position
             path.path.RemoveAt(0);
-            compuatationTime = Time.realtimeSinceStartup - compuatationTime;
-            // Debug.Log("[AStar] Path found in " + compuatationTime + "ms" + " Path: " + path.path.Count + " nodes");
+            computationTime = Time.realtimeSinceStartup - computationTime;
+            // Debug.Log("[AStar] Path found in " + computationTime + "ms" + " Path: " + path.path.Count + " nodes");
             return path;
         }
 
@@ -194,7 +194,7 @@ namespace Automotion
                 if (direction.y > 0) return GraphNode.NONE;
                 // I can go on a side if jumpScore is odd
                 if (direction.x != 0 && direction.y == 0) {
-                    if (cell.jumpScore%2 == 1) return new GraphNode(cell.position + direction, cell.jumpScore + 1, startFall);
+                    if (cell.jumpScore%2 == 0) return new GraphNode(cell.position + direction, cell.jumpScore + 1, startFall);
                     else return GraphNode.NONE;
                 }
                 else if (direction.x != 0 && direction.y < 0) {

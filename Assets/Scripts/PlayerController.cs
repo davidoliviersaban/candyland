@@ -14,7 +14,7 @@ namespace TarodevController
     [RequireComponent(typeof(Rigidbody2D), typeof(Collider2D))]
     public class PlayerController : MonoBehaviour, IPlayerController
     {
-        [SerializeField] private Automotion.EnemyMovement automotion;
+        // [SerializeField] private Automotion.EnemyMovement automotion = null;
         [SerializeField] private ScriptableStats _stats;
         private Rigidbody2D _rb;
         private CapsuleCollider2D _col;
@@ -48,15 +48,17 @@ namespace TarodevController
 
         private void GatherInput()
         {
-            Vector2 move = new Vector2(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical"));
-            move += automotion.frameInput.Move;
-            Debug.Log(move);
             _frameInput = new FrameInput
             {
-                JumpDown = Input.GetButtonDown("Jump") || Input.GetKeyDown(KeyCode.C) || automotion.frameInput.JumpDown,
-                JumpHeld = Input.GetButton("Jump") || Input.GetKey(KeyCode.C) || automotion.frameInput.JumpHeld,
-                Move = move
+                JumpDown = Input.GetButtonDown("Jump") || Input.GetKeyDown(KeyCode.C),
+                JumpHeld = Input.GetButton("Jump") || Input.GetKey(KeyCode.C),
+                Move = new Vector2(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical"))
             };
+            // if (automotion?.frameInput != null) {
+            //     _frameInput.Move += automotion.frameInput.Move;
+            //     _frameInput.JumpHeld = _frameInput.JumpHeld || automotion.frameInput.JumpHeld;
+            //     _frameInput.JumpDown = _frameInput.JumpDown || automotion.frameInput.JumpDown;
+            // }
 
             if (_stats.SnapInput)
             {

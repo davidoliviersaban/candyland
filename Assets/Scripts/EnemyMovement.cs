@@ -309,14 +309,7 @@ namespace Automotion {
             }
             Vector2 fixedVy = ComputeJumpFixedVY((Vector2)jumpStart, (Vector2)jumpEnd, _stats.FallAcceleration);
             Vector2 fixedVx = ComputeJumpFixedVX((Vector2)jumpStart, (Vector2)jumpEnd, _stats.FallAcceleration);
-            // if (Math.Abs(fixedVy.x) < _stats.MaxSpeed)
-            // {
-            //     return fixedVx;
-            // }
-            // else
-            // {
-                return fixedVy;
-            // }
+            return fixedVy;
         }
 
         Vector2 ComputeJumpFixedVX(Vector2 from, Vector2 to, float gravity)
