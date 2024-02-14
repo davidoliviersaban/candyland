@@ -1,7 +1,5 @@
 {
   "dependencies": {
-    "com.unity.ai.navigation": "2.0.0",
-    "com.unity.cinemachine": "2.9.7",
     "com.unity.feature.2d": "2.0.0",
     "com.unity.inputsystem": "1.7.0",
     "com.unity.modules.accessibility": "1.0.0",

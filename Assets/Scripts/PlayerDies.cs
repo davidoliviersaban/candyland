@@ -27,10 +27,9 @@ namespace Automotion {
                 //GameObject oldGameObject = gameObject;
                 gameObject.transform.position = startingPlayerPos;
                 EnemyMovement enemyMovement = this.GetComponent<EnemyMovement>();
-                enemyMovement.Reset();
-                // Instantiate(this.transform.gameObject, startingPlayerPos, Quaternion.identity);
-                // Destroy(this.transform.gameObject);
-                // GetComponent<Cinemachine.CinemachineVirtualCamera>().Follow = GameObject.Find("Player(Clone)").transform;
+                if (enemyMovement != null) {
+                    enemyMovement.Reset();
+                }
             }
         }
     }
